@@ -8,7 +8,7 @@ import threading
 #API_token, который выдал Telegram:
 #7912743208:AAEluUXLW9t7EqdzLHN58k9cVvLW15q1Ypw
 
-bot = telebot.TeleBot( '7912743208:AAEluUXLW9t7EqdzLHN58k9cVvLW15q1Ypw')
+bot = telebot.TeleBot()
 
 #Storage for the user's photos
 user_data = {}
