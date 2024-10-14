@@ -6,7 +6,6 @@ import threading
 
 
 #API_token, который выдал Telegram:
-#7912743208:AAEluUXLW9t7EqdzLHN58k9cVvLW15q1Ypw
 
 bot = telebot.TeleBot()
 
