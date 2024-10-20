@@ -8,4 +8,3 @@ How the bot works:
 * Task planning: The **schedule** module is used for scheduling messages to be sent out to the user. The **Thread** module initializes **schedule_checker** function that validates and processes the tasks scheduled.
 
 
-![logo](https://st.depositphotos.com/1177973/3268/i/450/depositphotos_32684137-stock-photo-beautiful-girl-thinking-what-to.jpg)
